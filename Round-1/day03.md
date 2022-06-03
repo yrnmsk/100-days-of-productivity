@@ -14,8 +14,8 @@
 
 - freeCodeCamp(Basic JavaScript): JavaScript Algorithms and Data Structures
 - 100-days-of-code:
-  - dev twitter account
-  - Round 1 Day 3
+  - updated Round 1 goals
+  - pushed Round 1: Day 3
 
 ### Notes:
 

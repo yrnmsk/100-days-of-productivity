@@ -11,8 +11,10 @@
 - Revisit HTML, CSS and JS for deeper knowledge
 - Make some real world projects for my portfolio
 - Get a good grasp on Node JS & server-side javascript
-- [ ] Complete [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
-- [ ] Complete [FreeCodeCamp: Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [ ] Complete [freeCodeCamp: (New) Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [ ] Complete [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [ ] Complete [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+- [ ] Complete [freeCodeCamp: Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 ### Projects List
 

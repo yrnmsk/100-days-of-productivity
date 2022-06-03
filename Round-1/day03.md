@@ -1,0 +1,43 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 4</p>
+
+  <sub>
+    Author: <a href='https://github.com/yrnmsk'>Andre Barcala (Youka)</a><br />
+    <small> June 3, 2022 - Friday </small>
+  </sub>
+</div>
+
+[<< Day 2](day02.md) | [Day 4 >>](day04.md)
+
+### Today's Progress:
+
+- freeCodeCamp(Basic JavaScript): JavaScript Algorithms and Data Structures
+- 100-days-of-code:
+  - dev twitter account
+  - Round 1 Day 3
+
+### Notes:
+
+<ul>
+  <li>I modified my <a href='https://trello.com/c/ePbxycq5/20-june' target='_blank'>Trello goals</a> for this month:</li>
+  <ol>
+    <li>Dropped: PolyFox Freelance Project (I will focus more on learning for now.)</li>
+    <li>Added: freeCodeCamp's</li>
+    <ul>
+      <li>JavaScript Algorithms and Data Structures</li>
+      <li>Responsive Web Development (2022)</li>
+    </ul>
+    <li>Cleaned: some of the unnecessary stuff</li>
+  </ol>
+  <li>I finished freeCodeCamp(Basic JavaScript): JavaScript Algorithms and Data Structures</li>
+</ul>
+
+### Thoughts:
+
+- I know in myself I could've been a lot more productive than I did today, so I'm a bit disappointed.
+- I fixed (at least I think so) my sleep schedule and my eating schedule today, yay. I think I slept about 12am last night, and then woke up from time to time as I slept when it was dawn, and finally woke up about 6am.
+- Though I fixed (again, at least I think so) my sleeping schedule, I was still out of it and wasn't in my form. I couldn't adapt that fast so I was not that productive. Add the fact that day time tends to be generally full of distraction and other noise, so it's hard to stay in focus and do what I have to do.
+- I hope tomorrow gets a lot better.
+
+[<< Day 2](day02.md) | [Day 4 >>](day04.md)

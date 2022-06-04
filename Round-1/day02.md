@@ -13,10 +13,13 @@
 ### Today's Progress:
 
 - freeCodeCamp: Front End Development Libraries
-  - Finish JQuery
-  - Finish SASS
-  - Finish React
-- 100-days-of-code: Round 1 & Days 1-2
+  - topic: add JQuery
+  - topic: add SASS
+  - topic: add React
+- 100-days-of-code: round 1
+  - readme: update readme
+  - day: update day 1
+  - day: add day 2
 
 ### Notes:
 

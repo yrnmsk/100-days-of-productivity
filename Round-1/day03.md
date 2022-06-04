@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Round 1</h1>
-  <p>Day 4</p>
+  <p>Day 3</p>
 
   <sub>
     Author: <a href='https://github.com/yrnmsk'>Andre Barcala (Youka)</a><br />
@@ -13,9 +13,10 @@
 ### Today's Progress:
 
 - freeCodeCamp(Basic JavaScript): JavaScript Algorithms and Data Structures
-- 100-days-of-code:
-  - updated Round 1 goals
-  - pushed Round 1: Day 3
+- 100-days-of-code: round 1
+  - readme: update goals
+  - day: add day 3
+- Erutidians(trello): update goals
 
 ### Notes:
 

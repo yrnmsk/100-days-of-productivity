@@ -1,6 +1,11 @@
-# 100-days-of-code
+# 100-days-of-productivity
 
-It's a 100-day challenge to make a habit of coding everyday and develop my skill sets, because [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge inspired me. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/) or [the official repo](https://github.com/Kallaway/100-days-of-code).
+I was inspired by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge.
+
+More details about the challenge can be found here:
+
+- [100daysofcode.com](http://100daysofcode.com/)
+- [github.com/Kallaway/100-days-of-code](https://github.com/Kallaway/100-days-of-code)
 
 ## **Main target:**
 
@@ -13,3 +18,11 @@ It's a 100-day challenge to make a habit of coding everyday and develop my skill
 | :--------------------: | :----------: | :-----------: | :------: |
 | [1](Round-1/README.md) | June 1, 2022 | June 24, 2022 |  Failed  |
 | [2](Round-2/README.md) | July 5, 2022 | ------------- | On-going |
+
+## **Projects**
+
+|  #  |                         Project Title:                         |               Completed On:            |
+| :-: | :------------------------------------------------------------: | :------------------------------------: |
+|  1  | [@Erutidians/auto-dop](https://github.com/Erutidians/auto-dop) | [Round 2 - Day 2](./Round-2/day002.md) |
+|  2  | -------------------------------------------------------------- | -------------------------------------- |
+|  3  | -------------------------------------------------------------- | -------------------------------------- |

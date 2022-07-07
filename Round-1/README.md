@@ -25,7 +25,7 @@
 |  1  |       [Odin Recipes](https://github.com/yrnmsk/odin-recipes)       |  [Day 18](./day018.md)  |
 |  2  |  [Odin Landing Page](https://github.com/yrnmsk/odin-landing-page)  |  [Day 24](./day024.md)  |
 
-[Day 1 >>](day001.md)
+[<< Home](../README.md) | [Day 1 >>](day001.md)
 
 ### **Status**
 
